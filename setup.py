@@ -10,7 +10,7 @@ with open('requirements.txt', 'r', encoding='utf-8') as f:
 
 setuptools.setup(
     name="trunky-general-utils",
-    version="0.0.1",
+    version="0.0.2",
     description=description,
     url="https://github.com/trunkduyn/general_utils",
     author="Trunky",
